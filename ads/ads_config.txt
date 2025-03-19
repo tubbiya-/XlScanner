@@ -1,0 +1,8 @@
+{
+  "ads": [
+    {"clk": "https://example.com/link1", "tme": 5},
+    {"clk": "https://example.com/link2", "tme": 7},
+    {"clk": "https://example.com/link3", "tme": 4},
+    {"clk": "https://example.com/link4", "tme": 6}
+  ]
+}
